@@ -1,0 +1,19 @@
+body {
+    padding: 20px;
+}
+
+#student-form {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#student-table {
+    margin-top: 20px;
+}
+
+#student-table img {
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 50%;
+}
